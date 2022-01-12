@@ -10,4 +10,4 @@ i add a new txt file in the working space;
 冲突管理
 分治策略管理：
 分治策略管理2；
-这里有没有完成的工
+这里有没有完成的工作；
