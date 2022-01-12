@@ -10,3 +10,4 @@ i add a new txt file in the working space;
 冲突管理
 分治策略管理：
 分治策略管理2；
+在master上面解决bug
