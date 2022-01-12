@@ -9,3 +9,4 @@ i add a new txt file in the working space;
 创建了一个分支；
 冲突管理
 分治策略管理：
+分治策略管理2；
