@@ -11,8 +11,4 @@ i add a new txt file in the working space;
 分治策略管理：
 分治策略管理2；
 这里有没有完成的工作；
-<<<<<<< HEAD
-修复bug
-=======
->>>>>>> dev
 修复bug
